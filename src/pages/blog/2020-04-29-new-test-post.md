@@ -3,7 +3,7 @@ templateKey: blog-post
 title: A new world of CMS
 date: 2020-04-29
 featuredpost: false
-featuredimage: ![flavor wheel](/img/flavor_wheel.jpg)
+featuredimage: https://mettahealth.uk/images/brand.svg
 description: Hey Sam! This is a potentially brilliant new way to make a CMS driven site that also has static pages for super-fast delivery of content.
 tags:
   - flavor
