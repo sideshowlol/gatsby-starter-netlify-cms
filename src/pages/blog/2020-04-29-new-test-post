@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: A new world of CMS
 date: 2020-04-29
-featuredpost: true
+featuredpost: false
 featuredimage:
 description: This is a potentially brilliant new way to make a CMS driven site that also has static pages for super-fast delivery of content.
 tags:
